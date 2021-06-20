@@ -5,12 +5,16 @@ const About = () => {
     <section className='section about-section'>
       <h1 className='section-title'>about us</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolorum
-        porro temporibus accusamus quibusdam quam consectetur minus! Unde qui
-        temporibus at repellat amet quibusdam ipsa doloremque officia ipsam
-        numquam illum veritatis fuga nostrum possimus, neque mollitia odit culpa
-        laboriosam, aperiam, sequi vel deserunt velit vitae! Accusamus, dolorem
-        provident. Quidem, fugiat.
+        This is a simple website to search for different cocktail with it's
+        name.
+        <br /> More information of the specific cocktail can be found by
+        clicking the "DETAILS" button under the cocktail.
+        <br />
+        <br />
+        Thanks, have fun.
+        <br />
+        <br />
+        Credit to: John Smilga of the Coding Addict channel
       </p>
     </section>
   )
